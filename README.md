@@ -18,4 +18,3 @@ INSTRUCTIONS
 =======================
 Les étapes d'installation de ce plugin est la même que pour les autres plugins.
 
-Une fois installé, il suffit de dire "Radio <titredelamusique>" et elle se lançera !
